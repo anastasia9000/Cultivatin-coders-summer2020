@@ -1,0 +1,19 @@
+/* universal selctor*/
+*{
+    margin: 0;
+    padding: 0;
+}
+/**type selector*/
+body{
+background-color: purple;
+}
+/** ID selector*/
+#topHeader{
+    color: red;
+
+}
+/** Class Selector*/
+.topPara{
+   color: blue;
+   font-size: 20%;
+}
